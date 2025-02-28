@@ -1,4 +1,4 @@
-FROM tomcat:9.0.80-jdk11  # Use a modern version
+FROM tomcat:9.0.80-jdk11   # Use a modern version
 
 MAINTAINER Ashok <ashok@oracle.com>
 
